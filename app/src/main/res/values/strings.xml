@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplicaciòn SAR</string>
+    <string name="titulo">Requisitos RTN</string>
+    <string name="inscripcion">Inscripciòn de RTN</string>
+    <string name="actualizacion">Actualizaciòn de RTN</string>
+    <string name="aceptacion">Aceptaciòn, Actualizaciòn o Rescisiòn de Contrato de Adhesiòn</string>
+    <string name="declaracion">Declaraciòn de inicio de operaciones</string>
+    <string name="grupo3">Aplicacion de grupo Nº3</string>
+    <string name="titulotexto">Inscripcion de RTN</string>
+    <string name="cajatexto">Requisitos</string>
+</resources>
